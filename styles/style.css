@@ -27,7 +27,7 @@
   width: 730px;
   font-size: 102px;
   font-weight: bold;
-  line-height: 96px;;
+  line-height: 96px;
   z-index: 2;
 }
 
@@ -133,7 +133,7 @@
   font-size: 60px;
   font-weight: bold;
   margin: auto;
-  margin-bottom: 20px;;
+  margin-bottom: 20px;
 }
 
 .section-subtitle {
@@ -301,7 +301,6 @@
   left: 0;
   bottom: 0;
   position: absolute;
-  bottom: 0px;
   padding-top: 18px;
   padding-bottom: 18px;
 

@@ -49,7 +49,7 @@
 }
 
 .header__main-illustration {
-  background-image: url(/images/header-image.png);
+  background-image: url(../images/header-image.png);
   height: 608px;
   width: 765px;
   background-size: cover;
@@ -235,7 +235,7 @@
 }
 
 .kaufman__triangle {
- background-image: url(/images/kaufman-triangle.svg);
+ background-image: url(../images/kaufman-triangle.svg);
  height: 877px;
  width: 877px;
  position: absolute;
@@ -282,7 +282,7 @@
 }
 
 .logo_place_footer {
-  background-image: url(/images/logo_place_footer.svg);
+  background-image: url(../images/logo_place_footer.svg);
   height: 35px;
   width: 183px;
 }

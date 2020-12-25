@@ -345,9 +345,6 @@
 
 .footer__column-link {
   display: flex;
-}
-
-.footer__column-link {
   text-decoration: none;
   line-height: 30px;
   font-size: 18px;

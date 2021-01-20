@@ -1,0 +1,18 @@
+.resources__logo-zone {
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 217px;
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .resources__logo {
+    width: 270px;
+    height: 38px;
+    text-align: center;
+  }
+  
+  .resources__logo-pic {
+    height: 100%;
+  }

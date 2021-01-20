@@ -1,0 +1,13 @@
+.video__inframes {
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+  }
+  
+  .video__inframe {
+    margin-right: 20px;
+  }
+  
+  .video__inframe:last-child {
+    margin-right: 0;
+  }

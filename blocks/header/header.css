@@ -1,5 +1,3 @@
-@import url(__logo/header__logo.css);
-
 .header {
     background-color: #f2f2f2;
     height: 100vh;
@@ -8,55 +6,4 @@
     position: relative;
     display: flex;
     overflow: hidden;
-  }
-
-  .header__title {
-    margin: auto;
-    margin-left: 64px;
-    width: 730px;
-    font-size: 102px;
-    font-weight: bold;
-    line-height: 96px;
-    z-index: 2;
-  }
-
-  
-  .header__subtitle {
-    margin: 0px;
-    position: absolute;
-    left: 64px;
-    bottom: 30px;
-    width: 388px;
-    line-height: 25px;
-    font-size: 18px;
-    font-weight: normal;
-    z-index: 2;
-  }
-  
-  .header__link {
-    text-decoration: none;
-    color: #2f80ed;
-    z-index: 2;
-  }
-  
-  .header__main-illustration {
-    background-image: url(../../images/header/header-image.png);
-    height: 608px;
-    width: 765px;
-    background-size: cover;
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
-    z-index: 1;
-  }
-  
-  .header__square-pic {
-    animation: rotation 20s linear infinite;
-    position: absolute;
-    top: 64px;
-    height: 568px;
-    width: 568px;
-    background-color: #2f80ed;
-    z-index: 0;
-    right: 0;
   }

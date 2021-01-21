@@ -6,13 +6,3 @@
     display: flex;
     justify-content: center;
   }
-  
-  .resources__logo {
-    width: 270px;
-    height: 38px;
-    text-align: center;
-  }
-  
-  .resources__logo-pic {
-    height: 100%;
-  }

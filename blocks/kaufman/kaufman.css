@@ -1,32 +1,6 @@
-@import url(__table/kaufman__table.css);
-
-
 .kaufman {
     overflow: hidden;
     z-index: 1;
     background-color: #1f1f1f;
     position: relative;
   }
-
-  .kaufman__triangle {
-    animation: rotation 20s linear infinite;
-     z-index: 1;
-     background-image: url(../../images/other-sections/kaufman-triangle.svg);
-     background-size: cover;
-     height: 877px;
-     width: 877px;
-     position: absolute;
-     right: -210px;
-    }
-
-.section-title_theme_dark {
-        position: relative;
-        z-index: 2;
-        color: white;
-        margin-top: 90px;
-    }
-      
-.section-subtitle_theme_dark {
-        z-index: 2;
-        color: white;
-    }

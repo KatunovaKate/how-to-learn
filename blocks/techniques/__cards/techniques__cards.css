@@ -1,8 +1,0 @@
-@import url(__item/techniques__cards__item.css);
-
-.cards {
-    margin: auto;
-    display: flex;
-    flex-wrap: wrap;
-    width: 920px;
-  }
